@@ -1,0 +1,23 @@
+Web development id divided in two parts 
+1. frontend: frontend of a website is everything the user sees or interacts with when they visit the website.
+   git and git hub:    
+
+   a.HTMl(hyper text markup language): it descibes the structure of web page. it consists series of elements(Tags)
+   b.CSS(cascading style sheet): Css descibes how HTML elements are to be displayed on screen.
+   c. javascript: it provide functionality to html elements.
+   d. React j.s: it is javascript library.
+   
+A framework is a set of pre-written code that provide a structure for developing websites.A libraray is a collection of pre-written code that can be used to perform specific tasks.
+
+
+Git-hub: Git-hub is a website and Git is a software. both uses work version control system. 
+
+New repository     New folder
+Commit             save
+Fork               copy
+Issues             complaint
+
+
+
+
+   
